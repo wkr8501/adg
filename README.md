@@ -1,8 +1,8 @@
 # 双adg一键安装脚本docker版 by [long-wind](https://github.com/lone-wind/)
 这个命令适合N1下的openwrt直接创建
-wget https://raw.githubusercontent.com/wxfyes/adg/main/adg.sh && sh adg.sh  
+wget https://raw.githubusercontent.com/wkr8501/adg/main/adg.sh && sh adg.sh  
 ## 其他固件如X86下的op如要使用此脚本，还需要手动创建两个文件夹路径，然后继续运行脚本
-mkdir -p /mnt/mmcblk2p4/adg
+mkdir -p /mnt/nvme0n1p4/adg
 
 # 广告规则
 
